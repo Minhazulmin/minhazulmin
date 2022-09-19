@@ -1,3 +1,31 @@
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am a Programmer, web designer, web developer and freelance based in Bangladesh and all over the world.
+
+I have been building noteworthy software and websites for four years. For this time I've done all types of projects, Like University Management System,Tour Management System, E-commerce Management System, Personal Website, Healthcare Website,Shop and Beauty Website, Corporate Website etc. I help convert a vision and an idea into meaningful and useful products. Having a sharp eye for product evolution helps me prioritize tasks, iterate fast and deliver faster. If you're interested in working with me, don't hesitate to hire me.
+
+Skills PHP Laravel , Vue.js , Nuxt.js , Ajax , Github , Gitlab , cPanel , VPS Server , MySQL , JavaScript , Bootstrap 5 , HTML 5 , CSS 3 , JQuery , Photoshop cc , illustrator cc ,Figma
+Payment Gateway Stripe, SSL Ecommerce, Bkash ,Nogod etc.
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/minhazulmin)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=minhazulmin)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=minhazulmin&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhazulmin)  
+
+![GitHub metrics](https://metrics.lecoq.io/minhazulmin)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=minhazulmin)  
+
+![Profile views](https://gpvc.arturio.dev/minhazulmin)  
+
 <h1 align="center">Hi 👋, I'm Minhazul Islam Min</h1>
 <h3 align="center">I am a Programmer, web designer, web developer and freelance based in Bangladesh and all over the world.</h3>
 
