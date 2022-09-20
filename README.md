@@ -1,4 +1,4 @@
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://minhazulmin.github.io/github-profile-readme-generator/github.jpg)
 
 I am a Programmer, web designer, web developer and freelance based in Bangladesh and all over the world.
 
