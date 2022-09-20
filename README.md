@@ -12,8 +12,8 @@
 
 <p>
    
- <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=minhazulmin&show_icons=true&locale=en" alt="minhazulmin" />
-   <img  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=minhazulmin&" alt="minhazulmin" />
+ <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=minhazulmin&show_icons=true&locale=en" alt="minhazulmin" />
+   <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=minhazulmin&" alt="minhazulmin" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazulmin&show_icons=true&locale=en&layout=compact" alt="minhazulmin" /></p>
