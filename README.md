@@ -8,7 +8,7 @@
 
 <b>Skills - </b> PHP Laravel , Vue.js , Nuxt.js , Ajax ,Microservice , Docker , Postman, Unit Testing, Github , Gitlab , cPanel , VPS Server , MySQL , JavaScript , Bootstrap 5 , HTML 5 , CSS 3 , JQuery , Photoshop cc , illustrator cc ,Figma
 
-<b> Payment Gateway - </b> Stripe, SSL Ecommerce, Bkash ,Nogod etc.
+<b> Payment Gateway - </b> Stripe, Paypal, SSL Ecommerce, Bkash ,Nogod etc.
 
 <p>
    
