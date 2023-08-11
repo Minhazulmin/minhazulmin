@@ -6,7 +6,7 @@
 
 <P align="justify"> I have been building noteworthy software and websites for four years. For this time I've done all types of projects, Like University Management System,Tour Management System, E-commerce Management System, Personal Website, Healthcare Website,Shop and Beauty Website, Corporate Website etc. I help convert a vision and an idea into meaningful and useful products. Having a sharp eye for product evolution helps me prioritize tasks, iterate fast and deliver faster. If you're interested in working with me, don't hesitate to hire me.</P>
 
-<b>Skills - </b> PHP Laravel , Vue.js , Nuxt.js , Ajax ,Microservice , Docker , Postman, Unit Testing, Github , Gitlab , cPanel , VPS Server , MySQL , JavaScript , Bootstrap 5 , HTML 5 , CSS 3 , JQuery , Photoshop cc , illustrator cc ,Figma
+<b>Skills - </b> PHP Laravel , Vue.js , Nuxt.js , Ajax ,Microservice , REST-API, Docker , Postman, Unit Testing, Github , Gitlab , cPanel , VPS Server , MySQL , JavaScript , Bootstrap 5 , HTML 5 , CSS 3 , JQuery , Photoshop cc , illustrator cc ,Figma
 
 <b> Payment Gateway - </b> Stripe, Paypal, SSL Ecommerce, Bkash ,Nogod etc.
 
