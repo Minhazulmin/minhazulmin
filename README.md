@@ -9,7 +9,7 @@
 <b>Skills - </b> PHP Laravel , Vue.js , Nuxt.js , Ajax ,Microservice , REST-API, Docker , Postman, Unit Testing, Github , Gitlab , cPanel , VPS Server , MySQL , JavaScript , Bootstrap 5 , HTML 5 , CSS 3 , JQuery , Photoshop cc , illustrator cc ,Figma
 
 <b> Payment Gateway - </b> Stripe, Paypal, SSL Ecommerce, Bkash ,Nogod etc.
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/minit61))
+[![IMAGE ALT TEXT HERE]]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/minit61))
 <p>
    
  <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=minhazulmin&show_icons=true&locale=en" alt="minhazulmin" />
